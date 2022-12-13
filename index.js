@@ -1,3 +1,3 @@
 const main () => {
-    console.log("teste")
+    console.log("teste2")
 }
