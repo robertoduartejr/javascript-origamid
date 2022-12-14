@@ -33,3 +33,7 @@ let pais, cidade, estado, oceano, ultima
 console.log(pais,cidade,estado,oceano,ultima)
 
 console.log(nome,idade,comidaFavorita)
+
+
+
+
